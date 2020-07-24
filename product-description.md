@@ -1,7 +1,7 @@
 M1 Money Stock | FRED
 =========================
 
-The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/fred-m2-money-stock](https://github.com/rearc-data/fred-m2-money-stock).
+The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/fred-m1-money-stock](https://github.com/rearc-data/fred-m1-money-stock).
 
 
 ## Main Overview
@@ -21,7 +21,7 @@ The `M1` column represents billions of dollars of M1 at the time of the correspo
 
 
 ## More Information
-- Source: [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/series/M2)
+- Source: [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/series/M1)
 - [FRED | Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/)
 - [Federal Reserve Bank of St. Louis | Homepage](https://www.stlouisfed.org/)
 - [Terms of Use FAQ](https://fred.stlouisfed.org/legal/)
