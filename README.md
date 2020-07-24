@@ -18,7 +18,7 @@ The included data is provided by the Federal Reserve Bank of St. Louis' FRED (Fe
 
 This resource is presented in both the XLS and CSV formats. The included dataset contains the following columns:
 
-`date, M2`
+`date, M1`
 
 The `M1` column represents billions of dollars of M2 at the time of the corresponding `date`.  
 
