@@ -20,7 +20,7 @@ This resource is presented in both the XLS and CSV formats. The included dataset
 
 `date, M1`
 
-The `M1` column represents billions of dollars of M2 at the time of the corresponding `date`.  
+The `M1` column represents billions of dollars of M1 at the time of the corresponding `date`.  
 
 
 ## More Information
