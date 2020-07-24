@@ -28,7 +28,7 @@ The `M1` column represents billions of dollars of M1 at the time of the correspo
 - [FRED | Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/)
 - [Federal Reserve Bank of St. Louis | Homepage](https://www.stlouisfed.org/)
 - [Terms of Use FAQ](https://fred.stlouisfed.org/legal/)
-- Frequency: Monthly
+- Frequency: Weekly
 - Formats: XLS, CSV
 
 ## Contact Details
