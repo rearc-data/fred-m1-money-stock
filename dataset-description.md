@@ -1,0 +1,1 @@
+This release contains information on M1, which involves funds that are accessible for spending. To calculate seasonally adjustable M1, you sum up currency, traveler's checks, demand deposits, and OCDS, with each seasonally adjusted separately.
