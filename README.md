@@ -5,7 +5,7 @@
 M1 Money Stock | FRED
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-mhhnlfopywz7e](https://aws.amazon.com/marketplace/pp/prodview-mhhnlfopywz7e).
 
 ## Main Overview
 
